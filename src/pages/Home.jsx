@@ -31,7 +31,7 @@ const Home = () => {
       </section> */}
 
       <SectionWrapper>
-        <div className="w-full flex flex-row items-center justify-center  py-32 ">
+        <div className="w-full flex flex-row items-center justify-center py-16 justify-content-center">
           <h1 className="w-full text-md font-bold text-center">
             <div id="company-description" className="text-left">
               302 Games는 우르르타워를 개발한 게임 개발사입니다.
