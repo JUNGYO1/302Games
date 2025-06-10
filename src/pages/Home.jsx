@@ -1,7 +1,7 @@
 import React from "react";
 import Layout from "../components/Layout";
 import MainBanner from "../components/MainBanner";
-import Logo from "../assets/Logo.png";
+import Logo from "../assets/302_Logo2.png";
 import SectionWrapper from "../components/SectionWapper";
 
 const Home = () => {
